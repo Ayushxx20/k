@@ -2,4 +2,4 @@
 <br>
 this is my first git repository
 
-im author of this git repository
+im author of this (ayush git repository)
